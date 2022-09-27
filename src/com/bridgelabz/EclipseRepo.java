@@ -13,7 +13,7 @@ public class EclipseRepo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// Some code for UC1
+		// Some code for UC2
 
 	}
 
